@@ -15,6 +15,10 @@ https://en.wikipedia.org/wiki/L-system
 
 ----
 
+![-----](https://upload.wikimedia.org/wikipedia/commons/4/4b/Fractal_Farn.gif)
+
+----
+
 ![-----](https://upload.wikimedia.org/wikipedia/commons/7/74/Dragon_trees.jpg)
 
 
