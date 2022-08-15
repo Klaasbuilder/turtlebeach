@@ -15,7 +15,7 @@ https://en.wikipedia.org/wiki/L-system
 
 ----
 
-![-----](https://upload.wikimedia.org/wikipedia/commons/4/4b/Fractal_Farn.gif)
+![-----](https://upload.wikimedia.org/wikipedia/commons/4/4b/Fractal_Farn.gif)![-](https://github.com/Klaasbuilder/central/blob/main/FractalPlant.png?raw=true)
 
 ----
 
