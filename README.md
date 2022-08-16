@@ -18,8 +18,3 @@ https://en.wikipedia.org/wiki/L-system
 ![-----](https://upload.wikimedia.org/wikipedia/commons/7/74/Dragon_trees.jpg)
 
 ----
-
-![https://www.craiyon.com](https://repository-images.githubusercontent.com/522002351/e3722678-a470-4b12-9b20-442d242e0c2c)
-
-AI model drawing images: https://www.craiyon.com
-
