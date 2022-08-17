@@ -19,7 +19,7 @@ https://en.wikipedia.org/wiki/L-system
 
 ----
 
-![-----](https://raw.githubusercontent.com/Klaasbuilder/turtlebeach/main/t1_2022-08-17.png)
+![-----](https://github.com/Klaasbuilder/turtlebeach/blob/222433e0cf5745ed83b813d6760f98b9967a758a/t1_2022-08-17.png)
 
 ----
 
